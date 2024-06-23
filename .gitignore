@@ -1,1 +1,2 @@
-automation/chromedriver.exe
+automation/*
+!automation/autosearch.py
